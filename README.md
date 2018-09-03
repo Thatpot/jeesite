@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 关注 JeeSite 4.0 请移步: <https://gitee.com/thinkgem/jeesite4>
 
 # JeeSite 企业信息化快速开发平台
@@ -163,3 +164,6 @@ Hibernate性能上定不是问题。但对于大多数情况下，真正掌握Hi
 上述纯属个人观点，欢迎指正（thinkgem@163.com）。
 
 如果你仍然喜欢Hibernate，请点击[下载JeeSite Hibernate版本](https://github.com/thinkgem/jeesite/tree/master_hibernate)。
+=======
+# jeesite
+>>>>>>> 7c63985c4108310b4d8b3cfbf0402338caa77050
